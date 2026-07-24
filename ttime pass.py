@@ -5,7 +5,7 @@
 # elif a<0:
 #     print("nagativa")
 # elif a==0:
-#     print("zero")
+#     print("zero") 
     
     
 # # 2 Vote dene ki age check karo
